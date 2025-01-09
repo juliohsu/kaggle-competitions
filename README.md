@@ -5,4 +5,4 @@ This is a block of models predictions and self implement libraries in PyTorch, i
 <br>
 1 - House Price Prediction: LinearRegression model from sklearn used in this competition.<br>
 2 - Titanic Survival Prediction: LinearRegression model from sklearn used in this competition.<br>
-3 - Stickers Sale Prediction: LGBM model from lightgbm used in this competition.<br>
+3 - Stickers Sale Prediction: LGBM, XGBOOST, CATBOOST model from lightgbm used in this competition.<br>
