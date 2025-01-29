@@ -11,3 +11,4 @@ LGBM, XGBOOST, CATBOOST from gradient boost and others that is used in this comp
 so i did a little bit of feature engineering such as combining differents features or creating a new one. Then finally, we train with the RandomForest model that we got 2.0... of RMLE that is kind of good, but of course we can still improve it with more graphic understanding and model fine tuning. KAGGLE SCORE & RANKING 582/841*<br>
 5 - Spaceship Titanic Prediction: RF model with custom NAN value correction self implementation. KAGGLE SCORE 0.78793 & RANKING 1546/2312*.<br>
 6 - Coffee Bean Country Origin: Focusing in data cleaning and formatting, in order to get a good training for the model.<br>
+7 - Plant Species Classification: classify plants by taking a image from yolo model that detects pot of plants, and then predict the plant species with resnet18 pre-trained model.<br>
