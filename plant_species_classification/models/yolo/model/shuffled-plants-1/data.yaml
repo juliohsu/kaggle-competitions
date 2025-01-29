@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plants']
+
+roboflow:
+  workspace: cyberrobbery
+  project: shuffled-plants-defde
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cyberrobbery/shuffled-plants-defde/dataset/1
